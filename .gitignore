@@ -1,0 +1,11 @@
+/.kube-secrets
+/local
+/dev
+
+.vscode
+.idea
+.DS_Store
+*~
+
+# GitGuardian
+.cache_ggshield
